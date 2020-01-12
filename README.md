@@ -1,5 +1,5 @@
 # Genomics_finalProject
-A repository for the codes created as a part of the final project of the course Analysis and visualization of genomic data from the Master in Computational Biology of the UPM
+This is a repository created to contain the scripts and detailed answers of the final project of the course Analysis and visualization of genomic data from the Master in Computational Biology of the UPM.
 
 The project is divided in 7 parts:
 1. Metagenomics
@@ -10,4 +10,4 @@ The project is divided in 7 parts:
 6. Functional prediction
 7. Phylogenetic analysis (complementary print_trees.py script)
 
-For each part there is be a jupyter notebook in Bash langiage containing the code and extended answer to all the questions in the questionnaire. There are also supplementary scripts used for parts 5 (R) and 7 (Python), and 'png' files with the images that the notebooks display.
+For each part there is be a jupyter notebook in Bash language containing the code, outputs and extended answer to all the questions in the questionnaire. There are also supplementary scripts used for parts 5 (R) and 7 (Python), and 'png' files with the images that the notebooks display.
